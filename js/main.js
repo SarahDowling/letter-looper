@@ -1,3 +1,3 @@
 var newName = prompt('Enter a letter');
 
-document.write(newName)
+document.write(newName);
